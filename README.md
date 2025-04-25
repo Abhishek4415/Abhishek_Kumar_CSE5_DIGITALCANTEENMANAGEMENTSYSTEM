@@ -10,8 +10,8 @@
 The Digital Canteen Management System is a web-based solution designed to streamline and digitize college canteen operations. It allows students and staff to place orders online, make digital payments, and track orders in real time, eliminating manual errors and reducing wait time.
 
 ## 🎥 Video Explanation
-[Watch the video here]([https://your-video-link-here.com](https://youtu.be/iVFN0EAScks?si=icep1dVOWQVSJhkI))  
-_(Replace this link with your actual video URL if hosted externally, or GitHub link if the video is uploaded to the repo.)_
+[Watch the video here]((https://youtu.be/iVFN0EAScks?si=icep1dVOWQVSJhkI))  
+_([Replace this link with your actual video URL if hosted externally, or GitHub link if the video is uploaded to the repo](https://youtu.be/iVFN0EAScks?si=icep1dVOWQVSJhkI).)_
 
 ## 🛠️ Technologies Used
 - **Frontend:** React.js (Vite), Tailwind CSS
