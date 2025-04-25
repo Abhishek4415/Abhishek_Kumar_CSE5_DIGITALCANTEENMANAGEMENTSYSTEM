@@ -13,7 +13,7 @@ The Digital Canteen Management System is a web-based solution designed to stream
 
 ## 🎥 Video Explanation
 [Watch the video here](https://your-video-link-here.com)  
-_(Replace this link with your actual video URL if hosted externally, or GitHub link if the video is uploaded to the repo.)_
+_([Replace this link with your actual video URL if hosted externally, or GitHub link if the video is uploaded to the repo.](https://youtu.be/iVFN0EAScks?si=pX--dSQR0QUi18mr))_
 
 ## 🛠️ Technologies Used
 - **Frontend:** React.js (Vite), Tailwind CSS
